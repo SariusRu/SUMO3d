@@ -73,3 +73,6 @@ crashlytics-build.properties
 .vscode/
 
 *lock.json
+Assets/SpaceZeta_StreetLamps/
+
+Assets/SpaceZeta_StreetLamps.meta
